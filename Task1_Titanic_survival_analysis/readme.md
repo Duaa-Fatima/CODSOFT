@@ -1,4 +1,4 @@
-**For some reason my notebook is not being rendered by the github, only opens using gitdev**<br />
+
 **Titanic Survival Prediction**<br />
 **Overview**<br />
 This project is an attempt to predict passenger survival on the Titanic using machine learning techniques, specifically the Decision Tree algorithm. The dataset used for this project contains information about passengers on the Titanic, including attributes like age, sex, class, and whether they survived or not.
